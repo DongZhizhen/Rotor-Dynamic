@@ -4,7 +4,7 @@
 
     Description:
         This program is used to calculate the rotor mode, based on the transfer matrix method.
-        The following code shows the calculation methods of Prohl.
+        The following code shows the calculation method of Prohl.
 
     All the codes had been written by Zhizhen Dong in 2022
 
