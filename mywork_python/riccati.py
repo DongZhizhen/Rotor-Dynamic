@@ -1,6 +1,6 @@
 """
 
-    riccati.m
+    riccati.py
 
     Description:
         This program is used to calculate the rotor mode, based on the transfer matrix method.
