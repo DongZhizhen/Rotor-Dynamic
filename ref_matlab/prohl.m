@@ -1,4 +1,4 @@
-% The source code from https://wenku.baidu.com/view/22a34940be1e650e52ea99a4.html
+% The source code comes from https://wenku.baidu.com/view/22a34940be1e650e52ea99a4.html
 
 %求解转子系统前三个临界转速和主振型的传递矩阵法
 clc
